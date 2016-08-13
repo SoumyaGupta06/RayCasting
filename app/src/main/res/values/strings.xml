@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Raycast</string>
+
+    <!-- Notification -->
+    <string name="Notification.Title">Your Location</string>
+    <string name="Notification.TextEnter">Entered!</string>
+    <string name="Notification.TextExit">Exited!</string>
+    <string name="Notification.TextDwell">Dwelling!</string>
+</resources>
